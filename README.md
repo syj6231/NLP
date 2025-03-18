@@ -19,6 +19,9 @@
     norm=None            # 정규화 제거
 
 Logistic Regression Model Accuracy: 0.7466666666666667
+
 Logistic Regression Model Precision: 0.6956521739130435
+
 Logistic Regression Model Recall: 0.8057553956834532
+
 Logistic Regression Model F1-Score: 0.7466666666666667
